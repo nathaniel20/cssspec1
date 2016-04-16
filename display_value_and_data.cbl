@@ -19,4 +19,4 @@
     Display num2.
     Display "NUM2 = " line 10 col 5.
     Display num2.
-    Stop Run. 
+    Stop Run.
