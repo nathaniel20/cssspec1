@@ -24,7 +24,7 @@
        IF xnum3 > xnuml AND XNUM3 > XNUM2
        	display xnum3 line 9 COL 5.
        	
-* CHECK FOR CLASS
+* CHECK FOR CLASS 
        IF XNUM3 IS NUMERIC
        	DISPLAY "XNUM3 IS NUMERIC" LINE 10 COL 5.
       
